@@ -1,4 +1,7 @@
-## AppleHDA_10.10.2 Released 
+## AppleHDA_10.10.2 - Yosemite - Released 
+
+
+
 
 #### . New Users/First Experience with AppleHDA: 
  
@@ -49,11 +52,12 @@
   1 - Examples Vs Solution:
  
   1 - Internal Microphone do not work or Headphones.
-  2 - Read this GUIDE so that you can fix yourself
+  
+  2 - Read this [GUIDE](http://www.insanelymac.com/forum/topic/295001-guide-to-patch-applehda-for-your-codec/) so that you can fix yourself
                                    
   Note: I'm not going to correct the variations of the same codec model
   an example is ALC269, there are several versions if any of them does
-  not work for you you must follow the GUIDE above and correct yourself.
+  not work for you you must follow the [GUIDE](http://www.insanelymac.com/forum/topic/295001-guide-to-patch-applehda-for-your-codec/) above and correct yourself.
  
 #### . Installation:
  
