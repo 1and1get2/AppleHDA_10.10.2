@@ -59,9 +59,9 @@
  
    1 - Requirements/mode:
  
-     1 - Install in S/L/E.
-     2 - After installing repair permissions and rebuild caches use an application of your choice.
-     3 - Use this flag is mandatory: kext-dev-mode=1 (Only For Yosemite)
+    1 - Install in S/L/E.
+    2 - After installing repair permissions and rebuild caches use an application of your choice.
+    3 - Use this flag is mandatory:kext-dev-mode=1 (Only For Yosemite)
  
 
 #### . Correction To Get Sound After Waking From Sleep:
